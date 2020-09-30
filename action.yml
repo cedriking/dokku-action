@@ -1,5 +1,5 @@
-name: "Easily Dokku Deploy"
-author: thadeu
+name: "Dokku Deploy"
+author: cedriking
 description: "Push changes to Dokku server to automatically deploy the application."
 runs:
   using: docker
