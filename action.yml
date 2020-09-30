@@ -1,4 +1,4 @@
-name: "Dokku Deploy"
+name: "Dokku Deployer"
 author: cedriking
 description: "Push changes to Dokku server to automatically deploy the application."
 runs:
